@@ -1,0 +1,22 @@
+{
+  "name": "pulseflow-project-manager",
+  "version": "1.0.0",
+  "description": "State-of-the-art collaborative project management tool with Kanban, Gantt Timeline, Sprint Analytics, and multi-user chat.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "project-management",
+    "collaboration",
+    "kanban",
+    "gantt",
+    "timeline",
+    "analytics",
+    "agile",
+    "team-workspace"
+  ],
+  "author": "PulseFlow Team",
+  "license": "MIT"
+}
